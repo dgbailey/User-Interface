@@ -140,13 +140,13 @@ nav a:link{
 }
 .image-div{
     width:100%;
+    /* height:100%; */
 }
 
-.middle-image{
+.middle-img{
     /* margin-left:41px; */
     /* display:box; */
     width:100%;
-    height:100%;
 }
 
 .three-cols{
