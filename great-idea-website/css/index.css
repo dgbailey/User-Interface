@@ -74,12 +74,13 @@ nav{
     /* margin:auto; */
     margin-bottom:5%;
     width:100%;
+    margin-top:10px;
 }
 
 
 nav a{
     /* padding:20px 40px 40px 0px; */
-    margin:20% 5% 2% 0%;
+    margin:0% 5% 2% 0%;
     color:grey;
 }
 
@@ -112,16 +113,18 @@ nav a:link{
     font-size:80px;
     padding: 50px;
     display:inline-block;
+    margin-right:1%;
 }
 .headline button{
     display:box;
+    vertical-align:top;
     border:1px solid black;
     font-size:15px;
     padding:5px 35px 5px 35px;
 }
 .headline-image{
-    width:48%;
-    margin-left:4%;
+    width:45%;
+    vertical-align:top;
     display:inline-block;
     /* margin-left:50px; */
 }
